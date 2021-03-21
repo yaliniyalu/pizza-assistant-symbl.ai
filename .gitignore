@@ -1,0 +1,10 @@
+# Except this file
+!.gitignore
+
+.env
+google-credentials.json
+
+node_modules
+.idea
+
+test-tts.js
